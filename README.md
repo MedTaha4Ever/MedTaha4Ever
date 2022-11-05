@@ -1,4 +1,4 @@
 <p align="center"> 
-  Visitor count<br>
+  Visitors counter<br>
   <img src="https://profile-counter.glitch.me/MedTaha4Ever/count.svg" />
 </p>
